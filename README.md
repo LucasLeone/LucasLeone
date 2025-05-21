@@ -31,10 +31,9 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 
 - 🔧 [**Turnero Online**](https://turnero-online.me): A full-featured SaaS for appointment scheduling, built with Django, Celery, Docker, and PostgreSQL. Enables businesses to efficiently manage bookings and clients.
 
+- 🏋️‍♂️ [**MyCentroGym**](https://mycentrogym.vercel.app/): A client management software for gyms. It manages memberships, payments, attendance, and provides tools for tracking client activity and engagement.
+
 - 🥖 **PanaSystem** *(In development)*: A management system for a bakery that handles product sales, daily deliveries, suppliers, and wholesale clients. Focused on streamlining operations and improving inventory tracking.
-
-- 🏋️‍♂️ **MyCentroGym** *(In development)*: A client management software for gyms. It manages memberships, payments, attendance, and provides tools for tracking client activity and engagement.
-
 ---
 
 ## 📫 Contact:
