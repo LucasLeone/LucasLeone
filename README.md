@@ -4,11 +4,18 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 
 🚀 I'm the founder of [Turnero Online](https://turnero-online.me), a modern appointment management platform that helps businesses streamline their scheduling process and improve client experience.
 
+💼 Currently, I'm working at:
+- [**InformeMedico**](https://informemedico.com.ar/): A medical imaging visualization platform, built with **Elixir, Phoenix, and LiveView**, focused on secure handling and real-time interaction of healthcare data.
+- [**BataEDU**](https://bataedu.com/): An educational platform for learning programming, with a backend in **Elixir & Phoenix** and a modern frontend built with **Vite, TypeScript, and TanStack**.  
+
 ⚙️ I'm passionate about backend development and system architecture. My main stack includes:
 - **Django REST Framework** for building robust APIs  
 - **Celery** for asynchronous task processing  
 - **Docker** for containerization and reproducible environments  
 - **PostgreSQL** for reliable and efficient data management  
+- **Elixir & Phoenix** for highly concurrent and fault-tolerant systems  
+- **LiveView** for real-time interactive interfaces  
+- **Vite, TypeScript & TanStack** for modern and efficient frontend development  
 
 🎯 I enjoy optimizing performance, designing scalable systems, and automating workflows that make development more efficient.
 
@@ -22,6 +29,12 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/Phoenix-F35421?style=flat&logo=phoenixframework&logoColor=white)
+![LiveView](https://img.shields.io/badge/LiveView-000000?style=flat&logo=phoenixframework&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reacttable&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -33,7 +46,6 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 
 - 🏋️‍♂️ [**MyCentroGym**](https://mycentrogym.vercel.app/): A client management software for gyms. It manages memberships, payments, attendance, and provides tools for tracking client activity and engagement.
 
-- 🥖 **PanaSystem** *(In development)*: A management system for a bakery that handles product sales, daily deliveries, suppliers, and wholesale clients. Focused on streamlining operations and improving inventory tracking.
 ---
 
 ## 📫 Contact:
