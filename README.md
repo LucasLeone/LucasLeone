@@ -4,6 +4,8 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 
 🚀 I'm the founder of [Turnero Online](https://turnero-online.me), a modern appointment management platform that helps businesses streamline their scheduling process and improve client experience.
 
+🏋️‍♂️ I'm also the founder of [MyCentroGym](https://mycentrogym.vercel.app/), a SaaS administrative system for gyms that allows managing memberships, payments, check-ins, entries, statistics, and trainers efficiently.
+
 💼 Currently, I'm working at:
 - [**InformeMedico**](https://informemedico.com.ar/): A medical imaging visualization platform, built with **Elixir, Phoenix, and LiveView**, focused on secure handling and real-time interaction of healthcare data.
 - [**BataEDU**](https://bataedu.com/): An educational platform for learning programming, with a backend in **Elixir & Phoenix** and a modern frontend built with **Vite, TypeScript, and TanStack**.  
@@ -37,14 +39,7 @@ I'm Lucas Leone, a software developer with 4 years of experience building scalab
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reacttable&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 🌟 Featured Projects:
-
-- 🔧 [**Turnero Online**](https://turnero-online.me): A full-featured SaaS for appointment scheduling, built with Django, Celery, Docker, and PostgreSQL. Enables businesses to efficiently manage bookings and clients.
-
-- 🏋️‍♂️ [**MyCentroGym**](https://mycentrogym.vercel.app/): A client management software for gyms. It manages memberships, payments, attendance, and provides tools for tracking client activity and engagement.
+![Apache](https://img.shields.io/badge/Apache_2.4-D22128?style=flat&logo=apache&logoColor=white)
 
 ---
 
